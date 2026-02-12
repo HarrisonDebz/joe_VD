@@ -398,7 +398,7 @@ function sendRomanticNotification() {
   // For now, we'll just display a message
   setTimeout(() => {
     alert(
-      "💖 Taonga,\nIn you, I've found everything I never knew I was looking for. \nYou're not just my love - you're my home, my peace, my happiness.\nThis Valentine's marks our first of many celebrations, \nand I promise to make every single one as special as you are to me.\nWith you, every day is Valentine's Day.\n\nForever and always,\nJoe❤️ ",
+      "💖 Taonga,\nIn you, I've found everything I never knew I was looking for. \nYou're not just my love - you're my home, my peace, my happiness.\nI promise to make every single one as special as you are to me.\nWith you, every day is more than Valentine's Day.\n\nForever and always,\nJoe❤️ ",
     );
   }, 1500);
 }
